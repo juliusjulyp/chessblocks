@@ -1,0 +1,9 @@
+#app{
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  margin: 400px;
+  align-content: center;
+  
+}
+
